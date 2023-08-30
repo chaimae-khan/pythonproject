@@ -13,7 +13,7 @@ while True :
 
   if players.isdigit():
      players=int(players)
-     if 2 <= players <= 4:
+     if 2 <= players <= 4: 
        break
      else: 
        print("the number of player must be between 2 - 4 ")
